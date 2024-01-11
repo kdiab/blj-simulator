@@ -16,3 +16,4 @@ Each run lasts for 1 second and there are 30 frames but we stop the count after 
 - ~~Add mute button~~
 - ~~Add toggle between 146 and 148 audio files~~
 - Add toggle button between 146 and 148 audio files instead of key toggle
+- Host on github or somewhere idk
